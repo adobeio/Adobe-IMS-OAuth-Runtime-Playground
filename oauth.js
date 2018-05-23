@@ -175,7 +175,7 @@ function main(args) {
                             </table>
                             <br>
                             <p><strong>Q: Where I can find the latest information on Scopes, Authorization and Access Endpoint URLs?</strong></p>
-                            <p>A: To provide you the latest and relevant information about scopes, endpoint URLs and other important stuff, we are maintaining a resources page on github: <a href="https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Playground/blob/master/Resources.md" target="_blank">Resources</a></p>
+                            <p>A: To provide you the latest and relevant information about scopes, endpoint URLs and other important stuff, we are maintaining a resources page on github: <a href="https://www.adobe.io/authentication/auth-methods.html#!adobeio/adobeio-documentation/master/auth/OAuth2.0Endpoints/oauth-scopes.md" target="_blank">Resources</a></p>
                             <br>
                             <p><strong>Q: Who built this?</strong></p>
                             <p>A: <a href="https://www.adobe.io/">Adobe I/O</a> Solutions team</p>
