@@ -9,7 +9,7 @@ A simple app deployed on Adobe I/O Runtime platform based on passport-adobe-oaut
 
 Clone the repository.
 Add a unique secret password for serverside encryption/decryption in callback.js Line 4862
-https://github.com/adobeio/-Adobe-IMS-OAuth-Runtime-Playground/blob/master/callback.js#L4862
+https://github.com/adobeio/Adobe-IMS-OAuth-Runtime-Playground/blob/master/callback.js#L4862
 
 To set up the playground execute the following commands:
 
