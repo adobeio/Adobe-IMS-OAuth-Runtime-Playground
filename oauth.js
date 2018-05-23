@@ -162,15 +162,15 @@ function main(args) {
                             <table class="table table-condensed">
                                <tr>
                                   <td>1. I/O Runtime (OpenWhisk) Actions</td>
-                                  <td><a href="https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Runtime-Playground" target="_blank">Adobe-IMS-OAuth-Runtime-Playground</a></p></td>
+                                  <td><a href="https://github.com/adobeio/Adobe-IMS-OAuth-Runtime-Playground" target="_blank">Adobe-IMS-OAuth-Runtime-Playground</a></p></td>
                                </tr>
                                <tr>
                                   <td>2. Node JS Application using Passport JS and passport-adobe-oauth2 strategy</td>
-                                  <td><a href="https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Playground" target="_blank">Adobe-IMS-OAuth-Playground</a></p></td>
+                                  <td><a href="https://github.com/adobeio/Adobe-IMS-OAuth-Playground" target="_blank">Adobe-IMS-OAuth-Playground</a></p></td>
                                </tr>
                                <tr>
                                   <td>3. Simple Node JS Application</td>
-                                  <td><a href="https://git.corp.adobe.com/hireshah/Adobe-IMS-Node-Playground" target="_blank">Adobe-IMS-OAuth-Node-Playground</a></p></td>
+                                  <td><a href="https://github.com/adobeio/Adobe-IMS-OAuth-Node-Playground" target="_blank">Adobe-IMS-OAuth-Node-Playground</a></p></td>
                                </tr>
                             </table>
                             <br>
