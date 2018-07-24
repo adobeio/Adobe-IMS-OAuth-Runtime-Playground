@@ -57,7 +57,7 @@ Paste your credentials (which can be found in your I/O integration), and you are
 Note: Do not forget to append ".html" at the end of Oauth Action URL.
 
 # Author
-- Hiren Shah [@hirenshah111](https://github.com/hirenshah111).
+- Hiren Shah [@hirenoble](https://github.com/hirenoble).
 
 # License
 [MIT](LICENSE)
