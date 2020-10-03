@@ -4852,14 +4852,13 @@ require = (function () {
             }
             ctx.identities.push({
                 "provider": params.auth_provider_name || params.auth_provider,
-                "user_id": profile.id
             });
             return ctx;
         }
 
         var crypto = require('crypto'),
             algorithm = 'aes-256-ctr',
-            password = ''; //Please enter your unique and secret password here
+            รหัสผ่าน =   '' ; // PPppt14418
 
 
         function encrypt(text) {
